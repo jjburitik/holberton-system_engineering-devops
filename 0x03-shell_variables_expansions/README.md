@@ -1,0 +1,1 @@
+This Repo is about **Shell**, init files, variables and expansions
